@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hleppps/starnavi-test-task.git/static/css/main.f623ec21.css",
+    "main.js": "/hleppps/starnavi-test-task.git/static/js/main.335afea4.js",
+    "index.html": "/hleppps/starnavi-test-task.git/index.html",
+    "main.f623ec21.css.map": "/hleppps/starnavi-test-task.git/static/css/main.f623ec21.css.map",
+    "main.335afea4.js.map": "/hleppps/starnavi-test-task.git/static/js/main.335afea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f623ec21.css",
+    "static/js/main.335afea4.js"
+  ]
+}
